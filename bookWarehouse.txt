@@ -1,4 +1,3 @@
 1, Prototype Design Pattern, Sammy K Erbynn
 2, Abstract Fatory Design Pattern, David Acquah
 
-

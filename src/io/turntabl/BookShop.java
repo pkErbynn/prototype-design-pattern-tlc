@@ -25,12 +25,23 @@ public class BookShop implements Cloneable {
         return books;
     }
 
-//    assume loading book form db
+    public void loadData() {
+        for (int i = 0; i < 20; i++) {
+            Book book = new Book();
+            book.setBookID(i);
+            book.setBookName("Book " + i);
+            books.add(book);
+        }
+    }
+
     public void loadDataFromFile() {
         try (BufferedReader buffReader = new BufferedReader(new FileReader("bookWarehouse.txt"))) {
             while (true) {
                 String line = buffReader.readLine();
                 if(line==null) break;
+                String[] attributes = line.split(",");
+                System.out.println(attributes[0]);
+//                System.out.println(line);
 
                 String[] bookAttributes = line.split(",");
 
@@ -44,15 +55,17 @@ public class BookShop implements Cloneable {
             ex.printStackTrace();
         }
 
+        System.out.println("Done reading file.");
+
     }
 
-    @Override
+/*    @Override
     // shallow clone
     protected Object clone() throws CloneNotSupportedException {
         return super.clone();
-    }
+    }*/
 
-   /* @Override
+    @Override
     // deep clone
     protected BookShop clone() throws CloneNotSupportedException {
         BookShop bookShop = new BookShop();
@@ -60,7 +73,7 @@ public class BookShop implements Cloneable {
             bookShop.getBooks().add(b);
         }
         return bookShop;
-    }*/
+    }
 
     @Override
     public String toString() {
@@ -69,13 +82,4 @@ public class BookShop implements Cloneable {
                 ", books=" + books +
                 '}';
     }
-
-    /*   public void loadData() {
-        for (int i = 0; i < 20; i++) {
-            Book book = new Book();
-            book.setBookID(i);
-            book.setBookName("Book " + i);
-            books.add(book);
-        }
-    }*/
 }
