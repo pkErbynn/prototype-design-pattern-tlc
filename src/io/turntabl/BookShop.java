@@ -37,6 +37,7 @@ public class BookShop implements Cloneable {
                 Book book = new Book();
                 book.setBookID(Integer.parseInt(bookAttributes[0]));
                 book.setBookName(bookAttributes[1]);
+//                book.setAuthor(bookAttributes[2]);
                 books.add(book);
             }
         } catch (IOException ex) {
