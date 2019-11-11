@@ -12,14 +12,6 @@ public class Book {
         this.bookName = bookName;
     }
 
-    public int getBookID() {
-        return bookID;
-    }
-
-    public String getBookName() {
-        return bookName;
-    }
-
     @Override
     public String toString() {
         return "Book{" +

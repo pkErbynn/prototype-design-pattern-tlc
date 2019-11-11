@@ -1,10 +1,11 @@
 package io.turntabl;
 
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class BookShop implements Cloneable{
+public class BookShop implements Cloneable {
     private String shopName;
     private List<Book> books = new ArrayList<>();
 
@@ -31,6 +32,24 @@ public class BookShop implements Cloneable{
             book.setBookName("Book " + i);
             books.add(book);
         }
+    }
+
+    public void loadDataFromFile() {
+        try (BufferedReader buffReader = new BufferedReader(new FileReader("bookWarehouse.txt"))) {
+            while (true) {
+                String line = buffReader.readLine();
+                if(line==null) break;
+                String[] attributes = line.split(",");
+                System.out.println(attributes[0]);
+//                System.out.println(line);
+
+            }
+        } catch (IOException ex) {
+            ex.printStackTrace();
+        }
+
+        System.out.println("Done reading file.");
+
     }
 
 /*    @Override
