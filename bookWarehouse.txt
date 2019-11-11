@@ -1,2 +1,2 @@
-John, 30pt
-Abena, 45pt
+1, 30pt
+2, 45pt
