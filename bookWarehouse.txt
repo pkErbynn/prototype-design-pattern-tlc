@@ -1,3 +1,395 @@
 1, Prototype Design Pattern, Sammy K Erbynn
-2, Abstract Fatory Design Pattern, David Acquah
-
+2, Abstract Fatory, Dareen Dawuds
+3, Intro To Design Pattern, Isaac Agyen
+4, Builder Pattern, Yaa Bill
+5, Creation Design Pattern, Alex Owusu
+6, C++ preprocessor directives, Team Bartels
+7, Job Control in Bash, Dennis Amponsah
+8, Intro To Design Pattern, Isaac Agyen
+9, Builder Pattern, Yaa Bill
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
+10, Creation Design Pattern, Alex Owusu
+11, factory method, Shadrack Ankomahere
+12, bridge, Christina David
+13, composite, Alex Yaa Dennis
+14, facade, Partricia Francis
+15, chain of responsibility, Isaac Christina Shadracks
+16, strategy, Samy Bartels Davids
+17, adapter, Partricia Dawuds
+18, C++ preprocessor directives, Team Bartels
+19, Job Control in Bash, Dennis Amponsah
+20, Shell Variables explained, Franklin
+21, C++ linker demystified, Christina
+22, Fun .profile hacks, Dawud Ismail
