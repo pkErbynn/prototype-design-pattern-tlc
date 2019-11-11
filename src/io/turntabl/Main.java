@@ -9,7 +9,7 @@ public class Main {
 
         // original shop
         BookShop bookShop1 = new BookShop();
-        bookShop1.setShopName("Kingdom Bookshop");
+        bookShop1.setShopName("Original: Kingdom Bookshop");
         bookShop1.loadDataFromFile();
         System.out.println(bookShop1.getShopName());
         System.out.println(bookShop1.getBooks());
@@ -24,24 +24,16 @@ public class Main {
         // shallow cloned shop
   /*      BookShop bookShop2 = (BookShop)bookShop1.clone();
         bookShop1.getBooks().remove(1);
-        bookShop2.setShopName("York Bookshop");
+        bookShop2.setShopName("Cloned: York Bookshop");
         System.out.println(bookShop2.getShopName());
         System.out.println(bookShop2.getBooks());*/
 
         // deep cloned shop
         BookShop bookShop2 = bookShop1.clone();
         bookShop1.getBooks().remove(1);
-        bookShop2.setShopName("One-Stop Bookshop");
+        bookShop2.setShopName("Cloned: One-Stop Bookshop");
         System.out.println(bookShop2.getShopName());
         System.out.println(bookShop2.getBooks());
-
-        // deep cloned shop 2
-        BookShop bookShop3 = bookShop1.clone();
-        bookShop1.getBooks().remove(1);
-        bookShop3.setShopName("Second-Stop Bookshop");
-        System.out.println(bookShop3.getShopName());
-        System.out.println(bookShop3.getBooks());
-
 
     }
 
