@@ -7,8 +7,6 @@ public class Main {
 
     public static void main(String[] args) throws CloneNotSupportedException {
 
-        long startTime = System.currentTimeMillis();
-
         // original shop
         BookShop bookShop1 = new BookShop();
         bookShop1.setShopName("Kingdom Bookshop");
@@ -37,8 +35,14 @@ public class Main {
         System.out.println(bookShop2.getShopName());
         System.out.println(bookShop2.getBooks());
 
-        long endTime = System.currentTimeMillis();
-        System.out.println("Took: " + (endTime - startTime));
+        // deep cloned shop 2
+        BookShop bookShop3 = bookShop1.clone();
+        bookShop1.getBooks().remove(1);
+        bookShop3.setShopName("Second-Stop Bookshop");
+        System.out.println(bookShop3.getShopName());
+        System.out.println(bookShop3.getBooks());
+
+
     }
 
 }
